@@ -4,7 +4,7 @@
   "main": "angular-moment.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/philips-emr/angular-moment.git"
+    "url": "http://github.com/philips-emr/angular-moment.git"
   },
   "license": "MIT",
   "files": [
