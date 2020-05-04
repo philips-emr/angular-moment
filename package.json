@@ -4,7 +4,7 @@
   "main": "angular-moment.js",
   "repository": {
     "type": "git",
-    "url": "http://github.com/urish/angular-moment.git"
+    "url": "https://github.com/philips-emr/angular-moment.git"
   },
   "license": "MIT",
   "files": [
@@ -15,7 +15,7 @@
     "LICENSE"
   ],
   "dependencies": {
-    "moment": ">=2.8.0 <2.12.0"
+    "moment": "2.24.0"
   },
   "devDependencies": {
     "bower": "1.6.3",
